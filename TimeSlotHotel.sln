@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSlotHotel.API", "TimeSlotHotel.API\TimeSlotHotel.API.csproj", "{D76701E2-B4C8-4C33-B10F-A22EE914A092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSlotHotel.Application", "TimeSlotHotel.Application\TimeSlotHotel.Application.csproj", "{519D6649-3B26-44CC-9BDE-90B1D230F54C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSlotHotel.Domain", "TimeSlotHotel.Domain\TimeSlotHotel.Domain.csproj", "{A353D88E-4EAF-4BEE-9D10-8E7963EB95BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSlotHotel.Infrastructure", "TimeSlotHotel.Infrastructure\TimeSlotHotel.Infrastructure.csproj", "{83E7156C-4536-4CB4-86F7-98B485AC2170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSlotHotel.Tests", "TimeSlotHotel.Tests\TimeSlotHotel.Tests.csproj", "{736F7010-804F-431C-AD08-9E1B81B95443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76701E2-B4C8-4C33-B10F-A22EE914A092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76701E2-B4C8-4C33-B10F-A22EE914A092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76701E2-B4C8-4C33-B10F-A22EE914A092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76701E2-B4C8-4C33-B10F-A22EE914A092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519D6649-3B26-44CC-9BDE-90B1D230F54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519D6649-3B26-44CC-9BDE-90B1D230F54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519D6649-3B26-44CC-9BDE-90B1D230F54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519D6649-3B26-44CC-9BDE-90B1D230F54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A353D88E-4EAF-4BEE-9D10-8E7963EB95BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A353D88E-4EAF-4BEE-9D10-8E7963EB95BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A353D88E-4EAF-4BEE-9D10-8E7963EB95BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A353D88E-4EAF-4BEE-9D10-8E7963EB95BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E7156C-4536-4CB4-86F7-98B485AC2170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E7156C-4536-4CB4-86F7-98B485AC2170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E7156C-4536-4CB4-86F7-98B485AC2170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E7156C-4536-4CB4-86F7-98B485AC2170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736F7010-804F-431C-AD08-9E1B81B95443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736F7010-804F-431C-AD08-9E1B81B95443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736F7010-804F-431C-AD08-9E1B81B95443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736F7010-804F-431C-AD08-9E1B81B95443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
