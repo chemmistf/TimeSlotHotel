@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeSlotHotel.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caf60274e54606e7720ce26c8e6f41b560a6cdba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37f4e5bf0c4e694df4a44e074311e4232cc9d65d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeSlotHotel.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeSlotHotel.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

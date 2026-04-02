@@ -9,7 +9,7 @@ public class User
     public string PasswordHash { get; set; } = string.Empty;
     
     public string? Role { get; set; }
-    bool IsBlocked { get; set; } = false;
+    public bool IsBlocked { get; set; } = false;
     
     public DateTime CreatedAt { get; set; }
 

@@ -9,4 +9,5 @@ public class Rooms
     
     public decimal PricePerNight { get; set; }
     public string Status { get; set; } = string.Empty;
+    public int Capacity { get; set; }
 }

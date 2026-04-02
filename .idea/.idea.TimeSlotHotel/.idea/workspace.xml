@@ -10,32 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e9312af-b95b-4ed0-bec6-d64a03103b56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Bookings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Notifications.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Payments.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Reviews.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/RoomAmenties.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Rooms.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Interfaces/IBookingRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Required Features.md" beforeDir="false" afterPath="$PROJECT_DIR$/Required Features.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TimeSlotHotel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TimeSlotHotel/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.API/obj/Debug/net8.0/TimeSlotHotel.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.API/obj/Debug/net8.0/TimeSlotHotel.API.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.API/obj/Debug/net8.0/TimeSlotHotel.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.API/obj/Debug/net8.0/TimeSlotHotel.API.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeSlotHotel.API/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.API/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Application/obj/Debug/net8.0/TimeSlotHotel.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Application/obj/Debug/net8.0/TimeSlotHotel.Application.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Application/obj/Debug/net8.0/TimeSlotHotel.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Application/obj/Debug/net8.0/TimeSlotHotel.Application.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Application/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Domain/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Entity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Hotels.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/User.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Domain/obj/Debug/net8.0/TimeSlotHotel.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/obj/Debug/net8.0/TimeSlotHotel.Domain.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Domain/obj/Debug/net8.0/TimeSlotHotel.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/obj/Debug/net8.0/TimeSlotHotel.Domain.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Infrastructure/obj/Debug/net8.0/TimeSlotHotel.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Infrastructure/obj/Debug/net8.0/TimeSlotHotel.Infrastructure.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Infrastructure/obj/Debug/net8.0/TimeSlotHotel.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Infrastructure/obj/Debug/net8.0/TimeSlotHotel.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Tests/obj/Debug/net8.0/TimeSlotHotel.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Tests/obj/Debug/net8.0/TimeSlotHotel.Tests.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Tests/obj/Debug/net8.0/TimeSlotHotel.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Tests/obj/Debug/net8.0/TimeSlotHotel.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Tests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Tests/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +34,31 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="features/30032026-file-chanching" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;chemmistf&quot;
+    &quot;state&quot;: &quot;OPEN&quot;
   }
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDORRfcdc7PCPgm&quot;,
+        &quot;number&quot;: 2
+      },
+      &quot;lastSeen&quot;: 1775053591353
+    }
+  ]
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -92,26 +93,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "features/30032026-file-chanching",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Inspections-C#",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#2 on features/31032026-created-Entities&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Inspections-C#&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.TimeSlotHotel.API: IIS Express">
     <configuration name="TimeSlotHotel.API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/TimeSlotHotel.API/TimeSlotHotel.API.csproj" />
@@ -170,7 +171,8 @@
       <option name="presentableId" value="Default" />
       <updated>1774889450514</updated>
       <workItem from="1774889452229" duration="7322000" />
-      <workItem from="1774977601270" duration="2467000" />
+      <workItem from="1774977601270" duration="2633000" />
+      <workItem from="1775052121944" duration="2084000" />
     </task>
     <task id="LOCAL-00001" summary="feat: changed files structure">
       <option name="closed" value="true" />
@@ -180,7 +182,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774889816689</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: created Entities">
+      <option name="closed" value="true" />
+      <created>1774982422817</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774982422817</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: updated git files">
+      <option name="closed" value="true" />
+      <created>1774982439006</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774982439006</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +220,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="feat: changed files structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: changed files structure" />
+    <MESSAGE value="feat: created Entities" />
+    <MESSAGE value="feat: updated git files" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: updated git files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
