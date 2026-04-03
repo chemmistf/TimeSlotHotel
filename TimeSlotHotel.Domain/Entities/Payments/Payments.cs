@@ -1,4 +1,4 @@
-namespace TimeSlotHotel.Domain.Entities;
+namespace TimeSlotHotel.Domain.Entities.Payments;
 
 public class Payments
 {
@@ -7,6 +7,6 @@ public class Payments
     
     public decimal Amount { get; set; }
     public string? Currency { get; set; }
-    public string? Status { get; set; }
-    public DateTimeOffset PaidAt { get; set; }
+    public PaymentStatus Status { get; set; }
+    public DateTimeOffset? PaidAt { get; set; }
 }

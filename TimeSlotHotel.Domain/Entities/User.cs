@@ -11,7 +11,7 @@ public class User
     public string? Role { get; set; }
     public bool IsBlocked { get; set; } = false;
     
-    public DateTime CreatedAt { get; set; }
+    public DateTimeOffset CreatedAt { get; set; }
 
     public List<Notifications> NotificationList { get; set; } = new();
     public List<Reviews> ReviewList { get; set; } = new();

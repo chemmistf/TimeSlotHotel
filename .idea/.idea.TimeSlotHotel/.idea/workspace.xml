@@ -10,11 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e9312af-b95b-4ed0-bec6-d64a03103b56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Payments/PaymentStatus.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TimeSlotHotel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TimeSlotHotel/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.API/obj/Debug/net8.0/TimeSlotHotel.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.API/obj/Debug/net8.0/TimeSlotHotel.API.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.API/obj/Debug/net8.0/TimeSlotHotel.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.API/obj/Debug/net8.0/TimeSlotHotel.API.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Application/obj/Debug/net8.0/TimeSlotHotel.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Application/obj/Debug/net8.0/TimeSlotHotel.Application.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Application/obj/Debug/net8.0/TimeSlotHotel.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Application/obj/Debug/net8.0/TimeSlotHotel.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Payments.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Payments/Payments.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/User.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Domain/obj/Debug/net8.0/TimeSlotHotel.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/obj/Debug/net8.0/TimeSlotHotel.Domain.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeSlotHotel.Domain/obj/Debug/net8.0/TimeSlotHotel.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSlotHotel.Domain/obj/Debug/net8.0/TimeSlotHotel.Domain.AssemblyInfoInputs.cache" afterDir="false" />
@@ -70,7 +72,7 @@
     <setting file="file://$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Bookings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Hotels.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Notifications.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Payments.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Payments/PaymentStatus.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Reviews.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/RoomAmenties.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TimeSlotHotel.Domain/Entities/Rooms.cs" root0="FORCE_HIGHLIGHTING" />
@@ -173,6 +175,8 @@
       <workItem from="1774889452229" duration="7322000" />
       <workItem from="1774977601270" duration="2633000" />
       <workItem from="1775052121944" duration="2084000" />
+      <workItem from="1775127663465" duration="2402000" />
+      <workItem from="1775212034967" duration="1529000" />
     </task>
     <task id="LOCAL-00001" summary="feat: changed files structure">
       <option name="closed" value="true" />
@@ -198,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774982439006</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: corrected issues">
+      <option name="closed" value="true" />
+      <created>1775127820800</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775127820800</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +234,8 @@
     <MESSAGE value="feat: changed files structure" />
     <MESSAGE value="feat: created Entities" />
     <MESSAGE value="feat: updated git files" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: updated git files" />
+    <MESSAGE value="fix: corrected issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: corrected issues" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
